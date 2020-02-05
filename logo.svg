@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="svg2"
+   width="256"
+   height="256"
+   viewBox="0 0 256 256.00001"
+   sodipodi:docname="ELIXIR-Cloud-logo.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1853"
+     inkscape:window-height="1145"
+     id="namedview4"
+     showgrid="false"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-midpoints="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="2.0716293"
+     inkscape:cx="85.397149"
+     inkscape:cy="130.31252"
+     inkscape:window-x="67"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <g
+     id="g989"
+     transform="matrix(1.057544,0,0,1.0573678,15.869577,7.9498435)"
+     style="stroke-width:0.9456659">
+    <path
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="rect828-9-5-0"
+       d="m 147.0206,60.5538 28.684,17.791 h -48.234 l -28.684,-17.791 z"
+       style="fill:#d8e0e3;fill-opacity:1;stroke:none;stroke-width:1.41849887;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="rect911-0-3"
+       d="m 105.83272,34.2586 h 94.98398 l -7.05727,26.295 H 98.787 Z"
+       style="fill:#f95b45;fill-opacity:1;stroke:#e2483e;stroke-width:1.41849887;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       id="rect911-6-8-1-4"
+       d="m 27.42508,0.8737 -26.28711,7.0586 55.83594,96.709 h 111.66992 l 7.06055,-26.2969 H 72.15555 Z"
+       style="fill:#5aba62;fill-opacity:1;stroke:#469f4e;stroke-width:1.41849887;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="rect828-9-5-0-3"
+       d="m 84.58779,148.7291 28.684,17.791 h -48.234 l -28.684,-17.791 z"
+       style="fill:#d8e0e3;fill-opacity:1;stroke:none;stroke-width:1.41849887;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="rect911-0-6-0"
+       d="m 18.28781,166.5201 h 94.98398 l -7.05727,26.2951 H 11.24209 Z"
+       style="fill:#23a9f6;fill-opacity:1;stroke:#1b92e1;stroke-width:1.41849887;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       id="rect911-6-8-1-5-4"
+       d="m 184.63309,226.1999 26.28711,-7.0586 -55.83594,-96.709 H 43.41434 l -7.06055,26.2968 h 103.54883 z"
+       style="fill:#ffcb00;fill-opacity:1;stroke:#fcb20f;stroke-width:1.41849887;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
